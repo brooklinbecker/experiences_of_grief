@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
-
+This paper is an analysis using two datasets - the main dataset being a quantitative study analyzing public stigma on individuals experiencing prolonged grief, and the secondary dataset being a qualitative study compiling responses of individuals experiencing any kind of grief.
 
 ## File Structure
 
