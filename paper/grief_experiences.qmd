@@ -2,7 +2,7 @@
 title: "On Grief"
 author: 
   - Brooklin Becker
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/brooklinbecker/experiences_of_grief.git"
 date: today
 date-format: long
 abstract: "Abstract to be added once Data, Results, and Discussion sections are fully completed."
